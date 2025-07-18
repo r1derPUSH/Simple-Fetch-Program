@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(44, 139, 221);
+    display: flex;
+    min-height: 98vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    width: 400px;
+    height: 250px;
+    border: 3px solid black;
+    border-radius: 50px;
+    font-size: 3rem;
+    background-color: yellow;
+    font-family: monospace;
+    cursor: pointer;
+}
